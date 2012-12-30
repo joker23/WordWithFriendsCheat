@@ -24,13 +24,9 @@
                 </jar>
         </target>
 
-        <target name="run" depends="jar">
-                <java jar="WordFinder.jar" fork="true"/>
-        </target>
-
         <target name="all" depends="init,clean"/>
 
-        <target name="clean" depends="run">
+        <target name="clean" depends="jar">
                 <delete dir="${build.dir}"/>
                 <delete dir="${apidoc.dir}"/>
         </target>
