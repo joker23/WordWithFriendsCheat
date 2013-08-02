@@ -9,7 +9,6 @@ or you could just run the jar file.
 
 again I didn't really spend too much time on this but if you have any
 feature requests or update requests then you can email me at zhangksteven@gmail.com
-or visit my website at zhangksteven.wix.com/steven-zhang
 
 Instructions on how to use this program:
 
