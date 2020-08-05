@@ -7,9 +7,6 @@ instructions of how to do this by visiting http://ant.apache.org/
 
 or you could just run the jar file. 
 
-again I didn't really spend too much time on this but if you have any
-feature requests or update requests then you can email me at zhangksteven@gmail.com
-
 Instructions on how to use this program:
 
 - the top textfield is where you will enter in LOWERCASE letters (basically all the letters that you
